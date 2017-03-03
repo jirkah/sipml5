@@ -1,0 +1,26 @@
+{
+  "name": "sipml5",
+  "version": "1.4.217",
+  "authors": [
+    "Jirka Hlavacek <jhlavacek@avencall.com>"
+  ],
+  "description": "HTML5 SIP client",
+  "main": "release/SIPml-api.js",     
+  "keywords": [
+    "SIP",
+    "webRTC",
+    "HTML5"
+  ],
+  "license": "BSD-3-Clause",
+  "homepage": "sipml5.org",
+  "private": true,
+  "ignore": [ 
+    "*.js",
+    "*.jar",
+    "*.htm*",
+    "*.sh",
+    "*.sln",
+    "*/**",
+    "!release/SIPml-api.js"
+  ]
+}
